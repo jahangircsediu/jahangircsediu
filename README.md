@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi there 👋, my name is Mohammad Jahangir Alam
+#### I am an Assistant Professor and AI Researcher
 
-<!--
-**jahangircsediu/jahangircsediu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![AI Researcher Banner](https://via.placeholder.com/900x200.png?text=AI+%7C+ML+%7C+Healthcare+Research)
 
-Here are some ideas to get you started:
+I'm currently serving as an Assistant Professor in the Department of CSE at Daffodil International University. I'm passionate about higher studies and continuously broadening my knowledge through AI-driven research in medical and healthcare domains.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+**Skills:**  
+Machine Learning / Deep Learning / Python / Java / C# / ASP.NET / HTML / CSS / JavaScript / SQL / AI / Research Writing
+
+- 🔭 I’m currently working on: Explainable AI in healthcare
+- 🌱 I’m currently pursuing: PhD in CSE at BUET
+- 💬 Ask me about: Research, mentoring, AI applications, and academia
+- 📫 How to reach me: jahangir.cse@diu.edu.bd
+
