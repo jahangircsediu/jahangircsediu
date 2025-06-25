@@ -44,7 +44,7 @@ I am an Assistant Professor in Computer Science and Engineering with a deep pass
 ---
 
 ## 🎓 Education
-- **PhD in Computer Science & Engineering** – Bangladesh University of Engineering and Technology (BUET) *(Ongoing)*  
+
 - **M.Sc. in CSE** – Daffodil International University *(CGPA: 3.90)*  
 - **B.Sc. in CSE** – Daffodil International University *(CGPA: 3.84)*  
 - **HSC** – Dhaka Board *(GPA: 4.90)*  
