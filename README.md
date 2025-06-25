@@ -1,5 +1,5 @@
 # Mohammad Jahangir Alam  
-**Assistant Professor | PhD Scholar | AI Researcher**  
+**Assistant Professor | AI Researcher**  
 Department of Computer Science and Engineering  
 Daffodil International University, Bangladesh  
 
