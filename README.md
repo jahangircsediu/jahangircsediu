@@ -71,7 +71,7 @@ I am an Assistant Professor in Computer Science and Engineering with a deep pass
 ## 🌐 Contact Me
 📧 Email: [jahangir.cse@diu.edu.bd](mailto:jahangir.cse@diu.edu.bd)  
 📍 Location: Gazipur, Bangladesh  
-🔗 [LinkedIn](https://linkedin.com/in/your-profile) | [Google Scholar](https://scholar.google.com/citations?user=HRQKy-AAAAAJ&hl=en) | [GitHub](https://github.com/your-username)
+🔗 [LinkedIn]([https://linkedin.com/in/your-profile](https://www.linkedin.com/in/jahangircsediu/)) | [Google Scholar](https://scholar.google.com/citations?user=HRQKy-AAAAAJ&hl=en) | [GitHub](https://github.com/your-username)
 
 ---
 
