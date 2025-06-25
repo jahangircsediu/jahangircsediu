@@ -1,57 +1,55 @@
-# Md. Sami Uddin, PhD  
-Assistant Professor | Human-Computer Interaction Researcher  
-Department of Computer Science, University of Regina, Canada
+# Mohammad Jahangir Alam  
+Assistant Professor | AI & ML Researcher  
+Department of Computer Science and Engineering, Daffodil International University, Bangladesh
 
 ---
 
-## About Me
-I am an Assistant Professor specializing in **Human-Computer Interaction (HCI)**, with a research focus on how users rapidly develop expertise with computer interfaces. My work leverages people's physical and cognitive abilities to design intuitive interaction techniques and spatial user interfaces that enhance learning and performance.
+## About Me  
+I am an Assistant Professor in Computer Science and Engineering, and a passionate researcher currently pursuing my PhD in CSE at BUET. My work focuses on the intersection of **Artificial Intelligence**, **Machine Learning**, and **Healthcare**. I am driven by a deep commitment to continuous learning, student mentorship, and academic excellence.
 
 ---
 
-## Research Interests
-- Human-Computer Interaction  
-- Expertise Development  
-- Spatial User Interfaces  
-- Interaction Design  
-- Multi-Touch Interactions  
-- Tabletop Interfaces  
+## Research Interests  
+- Artificial Intelligence (AI)  
+- Machine Learning (ML)  
+- Deep Learning  
+- Healthcare Informatics  
+- Computer Vision  
+- Sign Language Recognition  
+- Smart Systems with IoT  
 
 ---
 
-## Selected Publications
-- **The Image of the Interface:** How People Use Landmarks to Develop Spatial Memory of Commands in Graphical Interfaces (CHI 2021)  
-- Using Artificial Landmarks to Improve Revisitation Performance and Spatial Learning in Linear Control Widgets (SUI 2017)  
-- The Effects of Artificial Landmarks on Learning and Performance in Spatial-Memory Interfaces (CHI 2017)  
-- HandMark Menus: Rapid Command Selection and Large Command Sets on Multi-Touch Displays (CHI 2016)  
+## Selected Publications  
+- **Skin Disease Detection Employing Transfer Learning** — IJEECS, 2023  
+- **Bangla Sign Language Recognition with LSTM & MediaPipe** — ICKE 2023  
+- **ML-Based Breast Cancer Prediction** — HIS 2022  
+- **IoT and ML-Based Streetlamp Control** — MIET 2022  
+- *View full list on [Google Scholar](#)*  
 
 ---
 
-## Professional Experience
-- **Assistant Professor** — University of Regina (2022 - Present)  
-- Postdoctoral Researcher — McGill University (2021 - 2022)  
-- Graduate Research & Teaching Assistant — University of Saskatchewan (2014 - 2021)  
-- Lecturer — Ahsanullah University of Science and Technology (2011 - 2014)  
+## Professional Experience  
+- **Assistant Professor** — DIU, CSE Dept. (2024 – Present)  
+- Lecturer (Senior Scale) — DIU (2022 – 2024)  
+- Lecturer — DIU (2017 – 2022)  
+- Research Associate — DIU (2017)  
+- Trainer — DIU.NET (2016 – Present)  
 
 ---
 
-## Awards & Honors
-- Honorable Mention Award, CHI 2021  
-- Best Poster Award, GI 2017  
+## Certifications & Training  
+- Teachers’ Training on Online Class Engagement — HRDI, DIU  
+- Teaching Apprenticeship Program — HRDI, DIU  
+- Dot-Net Web Application Development — BASIS & ICT Division  
 
 ---
 
-## Contact
-📧 [sami.uddin@uregina.ca](mailto:sami.uddin@uregina.ca)  
-🏢 College West Building Room # 308.8  
-3737 Wascana Parkway, Regina, SK S4S 0A2, Canada  
+## Contact  
+📧 [jahangir.cse@diu.edu.bd](mailto:jahangir.cse@diu.edu.bd)  
+📍 Gazipur, Bangladesh  
+🌐 [LinkedIn](https://www.linkedin.com/in/your-profile) | [GitHub](https://github.com/your-username)  
 
 ---
 
-## Connect with Me  
-[University Profile](https://samicit06.github.io/index.html)  
-
----
-
-*This repository contains projects, publications, and code related to my research in HCI and user interaction design.*
-
+*This repository contains my academic projects, publications, and contributions related to AI, healthcare, and machine learning.*
