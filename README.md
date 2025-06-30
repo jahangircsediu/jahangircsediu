@@ -12,13 +12,34 @@ My long-term goal is to contribute to impactful interdisciplinary research that 
 
 ---
 
-## 🔍 Research Interests  
-- Explainable Artificial Intelligence (XAI)  
-- Machine Learning & Deep Learning  
-- Medical Image Analysis & Healthcare Informatics  
-- Computer Vision & Pattern Recognition  
-- Sign Language Recognition (especially Bangla Sign Language)  
-- IoT-Integrated Smart Health Systems  
+## 🎯 Interests & 🎓 Education
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+      ### 🔍 Research Interests  
+      - Explainable Artificial Intelligence (XAI)  
+      - Machine Learning & Deep Learning  
+      - Medical Image Analysis & Healthcare Informatics  
+      - Computer Vision & Pattern Recognition  
+      - Sign Language Recognition (especially Bangla Sign Language)  
+      - IoT-Integrated Smart Health Systems  
+
+    </td>
+    <td valign="top" width="50%">
+
+      ### 🎓 Academic Background  
+      - **M.Sc. in Computer Science & Engineering**  
+        Daffodil International University *(CGPA: 3.90)*  
+      - **B.Sc. in Computer Science & Engineering**  
+        Daffodil International University *(CGPA: 3.84)*  
+
+      Currently developing research proposals and SOPs for **PhD applications** in AI and Healthcare Informatics.
+
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -32,7 +53,7 @@ My long-term goal is to contribute to impactful interdisciplinary research that 
 - Mridul, A.H., Islam, M.J., Rahman, M., Asif, A., & **Alam, M.J.** (2022). *ML-Based Traditional and Ensemble Technique for Breast Cancer Prediction.* *HIS 2022*  
 - Rahman, M., Suny, M.F.I., Tasnim, J., Zulfiker, M.S., & **Alam, M.J.** (2022). *IoT and ML-Based Highway Monitoring & Smart Street Lighting.* *MIET 2022*  
 
-📄 [**View Full List on Google Scholar**](https://scholar.google.com/citations?user=HRQKy-AAAAAJ&hl=en)
+📄 **[View Full List on Google Scholar](https://scholar.google.com/citations?user=HRQKy-AAAAAJ&hl=en)**
 
 ---
 
@@ -42,16 +63,6 @@ My long-term goal is to contribute to impactful interdisciplinary research that 
 - **Databases:** SQL, MySQL  
 - **Tools & Frameworks:** Git, Visual Studio, Eclipse, Cisco Packet Tracer  
 - **Concepts:** OOP, Agile Methodology, SDLC, Research Prototyping  
-
----
-
-## 🎓 Academic Background  
-- **M.Sc. in Computer Science & Engineering**  
-  Daffodil International University, Bangladesh *(CGPA: 3.90)*  
-- **B.Sc. in Computer Science & Engineering**  
-  Daffodil International University, Bangladesh *(CGPA: 3.84)*  
-
-I am currently developing proposals and statements of purpose (SOPs) in preparation for **PhD applications** in Artificial Intelligence, Deep Learning, and Healthcare Informatics.
 
 ---
 
@@ -72,8 +83,8 @@ I am currently developing proposals and statements of purpose (SOPs) in preparat
 ---
 
 ## 🌐 Connect With Me  
-📧 Email: [jahangir.cse@diu.edu.bd](mailto:jahangir.cse@diu.edu.bd)  
-📍 Gazipur, Bangladesh  
+📧 **Email:** [jahangir.cse@diu.edu.bd](mailto:jahangir.cse@diu.edu.bd)  
+📍 **Location:** Gazipur, Bangladesh  
 🔗 [LinkedIn](https://www.linkedin.com/in/jahangircsediu/)  
 🔗 [Google Scholar](https://scholar.google.com/citations?user=HRQKy-AAAAAJ&hl=en)  
 🔗 [GitHub](https://github.com/jahangircsediu)
