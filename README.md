@@ -18,24 +18,29 @@ My long-term goal is to contribute to impactful interdisciplinary research that 
   <tr>
     <td valign="top" width="50%">
 
-      ### 🔍 Research Interests  
-      - Explainable Artificial Intelligence (XAI)  
-      - Machine Learning & Deep Learning  
-      - Medical Image Analysis & Healthcare Informatics  
-      - Computer Vision & Pattern Recognition  
-      - Sign Language Recognition (especially Bangla Sign Language)  
-      - IoT-Integrated Smart Health Systems  
+      <h3><strong>Interests</strong></h3>  
+      <ul>
+        <li>Explainable Artificial Intelligence (XAI)</li>
+        <li>Machine Learning & Deep Learning</li>
+        <li>Medical Image Analysis</li>
+        <li>Healthcare Informatics</li>
+        <li>Computer Vision & Pattern Recognition</li>
+        <li>Bangla Sign Language Recognition</li>
+        <li>IoT-Integrated Smart Health Systems</li>
+      </ul>
 
     </td>
     <td valign="top" width="50%">
 
-      ### 🎓 Academic Background  
-      - **M.Sc. in Computer Science & Engineering**  
-        Daffodil International University *(CGPA: 3.90)*  
-      - **B.Sc. in Computer Science & Engineering**  
-        Daffodil International University *(CGPA: 3.84)*  
-
-      Currently developing research proposals and SOPs for **PhD applications** in AI and Healthcare Informatics.
+      <h3><strong>Education</strong></h3>  
+      <ul>
+        <li>🎓 <strong>M.Sc. in Computer Science & Engineering</strong>, 2020  
+          <br><span style="color:gray">Daffodil International University (CGPA: 3.90)</span>
+        </li><br>
+        <li>🎓 <strong>B.Sc. in Computer Science & Engineering</strong>, 2015  
+          <br><span style="color:gray">Daffodil International University (CGPA: 3.84)</span>
+        </li>
+      </ul>
 
     </td>
   </tr>
