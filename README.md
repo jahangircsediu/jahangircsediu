@@ -37,11 +37,19 @@ My long-term goal is to contribute to impactful interdisciplinary research that 
 ---
 
 ## 🧰 Technical Skills  
-- **Languages:** Python, C, Java, C#, ASP.NET  
-- **Web:** HTML, CSS, JavaScript, jQuery  
-- **Databases:** SQL, MySQL  
-- **Tools & Frameworks:** Git, Visual Studio, Eclipse, Cisco Packet Tracer  
-- **Concepts:** OOP, Agile Methodology, SDLC, Research Prototyping  
+
+- **Deep Learning Frameworks**: PyTorch, TensorFlow 2.x, JAX  
+- **Large Language Models (LLMs)**: Prompt engineering, fine-tuning (e.g., GPT-4, LLaMA, Mistral)  
+- **Explainable AI (XAI)**: SHAP, LIME, Counterfactual Reasoning  
+- **Data Science & Big Data**: NumPy, Pandas, Scikit-learn  
+- **Privacy-Preserving ML**: Federated Learning, Differential Privacy (e.g., PySyft, Opacus)  
+- **🖼️ Computer Vision**: OpenCV, Detectron2, MMDetection  
+- **🌐 Natural Language Processing (NLP)**: RLHF (Reinforcement Learning from Human Feedback), Constitutional AI  
+- **💾 Programming Languages**: Python, C, C++, Java  
+- **🔌 IoT & Embedded Systems**: Arduino, Raspberry Pi, ESP32  
+- **📚 Research & Publication Tools**:  
+  - *Scientific Computing*: MATLAB, R, SciPy  
+  - *Writing & Citation*: LaTeX (Overleaf), BibTeX  
 
 ---
 
